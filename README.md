@@ -4,12 +4,15 @@
 ## Estimating Biomass
 est_biomass directory -> calculate_biomass_cleaned.ipynb
 
+## Base Requirements 
+Python 3.6+, Anaconda, Jupyter
+
 ## Installation
 
 Clone this repository into your current working directory:
 
 ```
-git clone https://github.com/klqi/EDI-NES-LTER-2019.git
+git clone https://github.com/UCSD-E4E/biomass-mangrove.git 
 ```
 
 Create a conda enviornment from EDI-NES-LTER repo:
