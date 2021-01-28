@@ -1,0 +1,9 @@
+name: gis
+channels:
+- conda-forge
+dependencies:
+  - numpy
+  - geopandas
+  - matplotlib
+  - rasterio
+  - rasterstats 
