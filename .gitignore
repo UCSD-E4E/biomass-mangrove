@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+downsampling/
+quadrat_analysis/
+srtm_drone_comparison/
